@@ -1,0 +1,311 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>MarcusDavis.net</title>
+<link href="marcus.davis.com.css" rel="stylesheet" type="text/css"><!--[if lte IE 7]>
+<style>
+.content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */
+ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it needs to correct extra whiltespace between the links */
+</style>
+<!--[endif]-->
+<link href="kwicks.css" rel="stylesheet">
+<link rel="stylesheet" href="jquery.fancybox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="jquery.mCustomScrollbar.css" /><!--customjquery scrollbar-->
+<link href="slider.css" rel="stylesheet" type="text/css"><!--sliderstylesheetlink-->
+
+
+
+
+<script type="text/javascript" src="jquery-1.11.1.js"></script><!--end of java library-->
+
+
+
+<script type="text/javascript" src="swfobject.js"></script>
+
+			
+
+
+		<script type="text/javascript">
+		
+			var flashvars = {},
+			params = {},
+			attributes = {};
+		 	
+			
+		swfobject.embedSWF("10_banneranimation.swf", "flashbanner", "720", "90", "9.0.0", null, null, null, {wmode:'transparent'});
+		
+        
+        
+		
+		
+        
+		swfobject.embedSWF("computerexplosion20.swf", "explosion", "180", "165", "9.0.0", null, null, null, {wmode:'transparent'});
+		</script><!--end of SWF objects-->
+
+   
+
+
+<script type='text/javascript' src='kwicks.js'></script>
+<script type='text/javascript' src='custom.js'></script>
+
+<script type="text/javascript" src="scripts/fancyboxcustom_marcus.js"></script>
+
+<script type="text/javascript" src="scripts/jquery.fancybox.pack.js"></script>
+
+
+
+<script type="text/javascript" src="scripts/jquery.fancybox-buttons.js"></script>
+
+
+
+
+<style>
+
+#powerpoints{
+	
+ width: 498px;
+ height:202px;
+ float: left;
+ border-bottom: 1px dashed #fff;
+ margin:0px;
+ margin-top: 0px;
+ padding:10px;
+ padding-top:5px;
+ 	
+	
+	
+	
+	
+	}
+	
+.powerpointfile{
+	
+	width:156px;
+	height:202px;
+	float:left;
+	margin:0px;
+	margin-right:10px;
+	padding:0px;
+	
+	
+	
+	}
+	
+	
+.powerpointfile2{
+	
+	width:156px;
+	height:202px;
+	float:left;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:2px;
+	margin-left:10px;
+	padding:0px;
+	padding-bottom:10px;
+	border-bottom: 1px dashed #fff;
+	
+	
+	
+	}
+	
+#powerpointimage{
+	
+	width:156px;
+	height:202px;
+	float:left;
+	margin:0px;
+	padding:0px;
+	
+	
+	
+	}
+	
+	
+	
+	
+.downloadlinks{
+	
+	font-size: 12px;
+	float:left;
+	
+	margin-bottom:10px;
+	margin-right:0px;
+	margin-left:0px;
+	padding:13px;
+	
+	
+	
+	}
+	
+.downloadlinks a:link{
+	
+	color:#fff;
+	text-decoration: none;
+	
+	
+	}
+
+.downloadlinks a:hover{
+	
+	color:#959595;
+	background:#fff;
+	
+	
+	}
+	
+.linkbox{
+	
+	width: 598px;
+	margin-right:0px;
+	margin-bottom:50px;
+	margin-left:0px;
+	padding:0px;
+	
+	padding:0px;
+	
+	
+	}
+	
+#powerpointbutton{
+	
+	margin:0px;
+	margin-top:168px;
+	margin-left:10px;
+	padding:0px;
+	padding-bottom:5px;
+	
+	border-top:1px dashed #fff;
+	border-bottom:1px dashed #fff;
+	
+	
+	
+	}
+	
+
+
+
+
+
+</style><!---end of power-point style content-->
+
+</head>
+
+<body>
+
+<div class="container">
+
+
+  <div class="header"><div class="logobox"><img src="images/portlogo2.png">
+    </div></div><!-- end .header -->
+    
+    <div id="banner">
+    
+   <div id="flashbanner"> <img src="10_banneranimation.fla"> </div>
+    
+    </div><!--end of banner div-->
+    
+  
+  <div class="sidebar1">
+  
+  <div id="explosion"><img src="computerexplosion20.fla"></div><!--end of explosion div animation-->
+   
+    <!-- end .sidebar1 --></div>
+    
+  <div class="content">
+  
+  <div class="navbar">
+  
+  <ul class="kwicks">
+     <li id="kwick1"><a href="index.html">Home</a></li>
+     <li id="kwick2"><a href="Models.html">Models</a></li>
+     <li id="kwick3"><a href="Powerpoints.html">Powerpoints</a></li>
+     <li id="kwick4"><a href="ProjectManagement.html">Projmanagement</a></li>
+ </ul>
+
+  
+ </div><!--end nav bar div-->
+ 
+ 
+ <div class=".diagrambuttons">
+ 
+ <img id="powerpointbutton"src="images/powerpointbutton.png">
+ 
+ 
+ 
+ </div><!--end of diagrambuttons-->
+ 
+ <div id="powerpoints">
+ 
+ <div class="powerpointfile">
+ <a class="fancybox" id="powerpointimage" rel="gallery" href="images/powerpointpics/powerpoint01.png" alt="powerpoint01" ><img  src="images/powerpointpics/smallpics/powerpoint01small.png"></a>
+
+ 
+ </div><!--end of powerpointfile-->
+ 
+ <div class="powerpointfile">
+ <a class="fancybox" id="powerpointimage" rel="gallery" href="images/powerpointpics/powerpoint02.png" alt="powerpoint01" ><img src="images/powerpointpics/smallpics/powerpoint02small.png"></a>
+ 
+ </div><!--end of powerpointfile-->
+ 
+ <div class="powerpointfile">
+ <a class="fancybox" id="powerpointimage" rel="gallery" href="images/powerpointpics/powerpoint03.png" alt="powerpoint01" ><img src="images/powerpointpics/smallpics/powerpoint03small.png"></a>
+ 
+ </div><!--end of powerpointfile-->
+ 
+ 
+ 
+ 
+ 
+ </div><!--end of powerpoints div-->
+ 
+ 
+ 
+ <div class="linkbox">
+ <p class="downloadlinks"><a href="Marcus_Davis_Powerpoint01.pptx">Download Powerpoint01</a>
+ <p class="downloadlinks"><a href="Marcus_Davis_Powerpoint02.pptx">Download Powerpoint02</a>
+ <p class="downloadlinks"><a href="Marcus_Davis_Powerpoint03.pptx">Download Powerpoint03</a>
+
+ 
+ 
+ </p>
+ </div>
+ <br style="clear: both;"/>
+ 
+ <div class="powerpointfile2">
+ <a class="fancybox" id="powerpointimage" rel="gallery" href="images/powerpointpics/powerpoint04.png" alt="powerpoint01" ><img src="images/powerpointpics/smallpics/Jamaalsboombap_picsmall.png"></a>
+ 
+ </div><!--end of powerpointfile-->
+ 
+ <br style="clear: both;"/>
+ 
+ <div class="linkbox">
+ <p class="downloadlinks"><a href="Jamaals_Boombappresentation.pptx">Download Powerpoint04</a>
+ 
+
+ 
+ 
+ </p>
+ </div>
+ 
+ 
+ 
+ 
+   
+    <!-- end .content --></div>
+  
+  <div class="footer">
+    <p id="footerwriting">MarcusDavis.net</p>
+    
+    <hr class="hr">
+    <p id="secondfooterwriting">
+    All works and trademarks belong to the property of Marcus J Davis
+    
+    </p>
+    <!-- end .footer --></div>
+  <!-- end .container --></div>
+
+
+
+</body>
+</html>
